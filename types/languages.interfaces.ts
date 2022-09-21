@@ -56,6 +56,8 @@ export type LanguageKey =
     | 'llvm'
     | 'mlir'
     | 'nim'
+    | 'objc'
+    | 'objc++'
     | 'ocaml'
     | 'openclc'
     | 'pascal'
